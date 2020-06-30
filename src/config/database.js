@@ -1,7 +1,7 @@
 module.exports = {
   dialect: 'mariadb',
-  host: 'localhost',
-  unsername: 'root',
+  host: '127.0.0.1',
+  username: 'root',
   password: '',
   database: 'gobarber',
   define: {
